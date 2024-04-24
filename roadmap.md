@@ -1,4 +1,4 @@
-# PUniSport_Scheduler Roadmap
+# UniSport_Scheduler Roadmap
 
 ## Overview
 We want to create a tool that assists students of the Uni Bern in the process of finding a suited sport activity.
