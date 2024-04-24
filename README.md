@@ -7,11 +7,11 @@ Welcome and thank you for visiting our GitHub repository!
 
 This README.md is here to help you to get to know UniSport_Scheduler and us.
 Below you can find some links to interesting sections:
-[What are the goals of this project?](#goals)
-[Who are we?](#goals)
-[How can you contribute?](#contribute)
-[Code of Conduct](#conduct)
-[Bugs](#bugs)
+- [What are the goals of this project?](#goals)
+- [Who are we?](#goals)
+- [How can you contribute?](#contribute)
+- [Code of Conduct](#conduct)
+- [Bugs](#bugs)
 
 
 
